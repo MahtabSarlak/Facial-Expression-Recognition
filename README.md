@@ -14,7 +14,7 @@ This model is based on the CNN introduced in paper, [Deep-Emotion](https://arxiv
 * Architecture
 
 <p align="center">
-  <img src="imgs/result1.PNG" width="960" title="Deep-Emotion Architecture">
+  <img src="img/result1.PNG" width="960" title="Architecture">
 </p>
 
 * Result
@@ -29,7 +29,7 @@ This model is modified version of VGG.
 * Architecture
 
 <p align="center">
-  <img src="imgs/result2.PNG" width="960" title="Deep-Emotion Architecture">
+  <img src="img/result2.PNG" width="960" title=" Architecture">
 </p>
 
 * Result
